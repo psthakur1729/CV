@@ -75,7 +75,8 @@ a:hover {
 }
 
 p {
-  margin: 0
+  margin: 0;
+  font-size: 1rem;
 }
 
 .giphy-embed1 {
